@@ -3,7 +3,7 @@
 This repository contains a Digital Design project focused on the **implementation of elevator control logic** and the comparison between **classic relay-based control** and its **digital logic simulation in Logisim Evolution**.
 
 ## Project overview
-The project explains how a **4-floor elevator system** can be controlled using relays and how the same behavior can be recreated using digital logic circuits. The report covers both the hardware-oriented logic behind relay control and a simplified digital implementation suitable for simulation and learning. fileciteturn15file0
+The project explains how a **4-floor elevator system** can be controlled using relays and how the same behavior can be recreated using digital logic circuits. The report covers both the hardware-oriented logic behind relay control and a simplified digital implementation suitable for simulation and learning. 
 
 ## Main topics covered
 - elevator basics and historical background
