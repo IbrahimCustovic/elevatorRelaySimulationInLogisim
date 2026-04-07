@@ -21,7 +21,7 @@ The elevator control concept includes:
 - motor and speed control logic
 - door lock and safety conditions before movement
 
-According to the report, the relay-based version uses floor relays, direction contactors, speed control, magnetic switches, and door-lock protection to decide when the elevator moves, where it stops, and when doors may open. fileciteturn15file0
+According to the report, the relay-based version uses floor relays, direction contactors, speed control, magnetic switches, and door-lock protection to decide when the elevator moves, where it stops, and when doors may open. 
 
 ## Digital logic simulation
 The Logisim-based interpretation breaks the system into several functional blocks:
@@ -30,7 +30,7 @@ The Logisim-based interpretation breaks the system into several functional block
 - **Request clearing logic** – resets stored requests once the elevator arrives at the correct floor
 - **Motor and speed control** – switches between high-speed and low-speed behavior depending on distance to the target floor
 
-These modules are presented in the report as separate parts of the overall elevator controller design. fileciteturn15file0
+These modules are presented in the report as separate parts of the overall elevator controller design. 
 
 ## Tools
 - **Logisim Evolution** for digital circuit simulation
@@ -42,14 +42,14 @@ These modules are presented in the report as separate parts of the overall eleva
   - encoders
 
 ## Learning goal
-This project is intended as an educational demonstration of how older **relay-based automation logic** can be understood and approximated using **digital logic design**. It is useful for understanding control systems, sequential logic, and the transition from electromechanical control to digital implementation. fileciteturn15file0
+This project is intended as an educational demonstration of how older **relay-based automation logic** can be understood and approximated using **digital logic design**. It is useful for understanding control systems, sequential logic, and the transition from electromechanical control to digital implementation.
 
 ## Conclusion
 The project highlights that both approaches have advantages:
 - **digital logic** offers smaller size, lower energy consumption, higher speed, and greater flexibility
 - **relays** remain useful in robust industrial environments and high-voltage applications
 
-The main value of the project is in understanding the relationship between these two implementation styles through the example of an elevator system. fileciteturn15file0
+The main value of the project is in understanding the relationship between these two implementation styles through the example of an elevator system. 
 
 ## Author
 **Ibrahim Čustović**  
